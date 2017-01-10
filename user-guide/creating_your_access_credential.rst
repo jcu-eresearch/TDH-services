@@ -45,6 +45,8 @@ Generating your credential
 On the top right hand corner, click on 'My Credential'.
 This page allows you to generate your username and password or to reset your password if required.
 
+Note: This step must be completed, otherwise Mediaflux storage cannot be provisioned.
+
 .. image:: _static/QRIScloud_QSAC.png
    :width: 100%
    :alt: QRIScloud Service Access Credential
