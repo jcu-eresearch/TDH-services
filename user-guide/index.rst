@@ -13,6 +13,7 @@ Contents:
 
    about.rst
    creating_your_access_credential.rst
+   reset_your_access_credential.rst
 
 Indices and tables
 ==================
