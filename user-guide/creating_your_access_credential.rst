@@ -1,6 +1,10 @@
 Creating your Access Credential
 ===============================
 
+.. raw:: html
+
+    <style>.document img { box-shadow: 0 0.5em 1em #999, 0 0.5em 2em #999; } </style>
+
 Before you can access Mediaflux or Aspera Shares at JCU an account is required on QRIScloud.
 Your access credential must also be generated.
 Please complete all steps 1 through to 8.
