@@ -40,4 +40,4 @@ click 'No' and then 'continue'.
 .. image:: _static/QRIScloud_VHO_submit.png
    :alt: VHO application form
 
-QRIScloud will contact you one the request has been actioned.
+QRIScloud will contact you once the request has been actioned.
