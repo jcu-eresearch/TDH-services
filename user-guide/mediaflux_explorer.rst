@@ -42,9 +42,6 @@ Obtaining Mediaflux Explorer
 Download the current version of the Explorer.
 http://www.arcitecta.com/software/mexplorer/mexplorer-1.3.6.jar
 
-(Jay consider putting a copy in MF and making it public, call it mexplorer_latest.jar,
-might be easier, no need to update doco)
-
 Mediaflux Explorer Documentation
 --------------------------------
 
