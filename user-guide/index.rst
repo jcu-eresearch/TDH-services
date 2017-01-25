@@ -16,6 +16,7 @@ Contents:
    reset_your_access_credential.rst
    apply_for_vho_account.rst
    mediaflux_sftp.rst
+   mediaflux_explorer.rst
 
 Indices and tables
 ==================
