@@ -13,9 +13,10 @@ What is QRIScloud ?
 ```````````````````
 
 QRIScloud is a service that provides compute and access to Research Data Storage (www.rds.edu.au)
-to researchers. It is run by QCIF (www.qcif.edu.au) JCU is a member of QCIF, as
-are other Queensland universities. The JCU eResearch Centre works closely with QCIF
- to provide these services.
+to researchers. It is run by QCIF (www.qcif.edu.au). JCU is a member of QCIF, as
+are other Queensland universities. 
+
+The JCU eResearch Centre works closely with QCIF to provide these services.
 
 Creating an Account
 -------------------
