@@ -40,7 +40,7 @@ Obtaining Mediaflux Explorer
 ----------------------------
 
 Download the current version of the Explorer.
-http://www.arcitecta.com/software/mexplorer/mexplorer-1.3.6.jar
+http://www.arcitecta.com/software/mexplorer/mexplorer-1.3.7.jar
 
 Mediaflux Explorer Documentation
 --------------------------------
@@ -73,7 +73,7 @@ Running Mediaflux Explorer
 
 1. Open the folder where Mediflux Explorer was saved.
 
-2. Double click on mexplorer-1.3.6.jar.
+2. Double click on mexplorer-1.3.7.jar.
 
 3. The login settings you need are:
 
